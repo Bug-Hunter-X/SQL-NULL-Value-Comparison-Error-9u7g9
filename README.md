@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL related to NULL value comparisons. The `bug.sql` file shows the incorrect approach using the = operator with NULL, while `bugSolution.sql` provides the correct solution using the IS NULL operator.  This is a critical concept in SQL to understand for handling missing or undefined data appropriately.
